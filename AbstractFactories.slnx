@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AbstractFactories.Termina/AbstractFactories.Termina.csproj" />
+  <Project Path="AbstractFactories/AbstractFactories.csproj" />
+</Solution>
